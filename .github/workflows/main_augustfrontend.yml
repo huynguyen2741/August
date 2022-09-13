@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AugustFrontEnd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3598263F4C544C1582E292F0AF2EA847 }}
+          publish-profile: ${{ secrets.AZURE_FRONT }}
           package: .
