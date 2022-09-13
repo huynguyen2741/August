@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'ecommerce-backend'
+      - 'ecommerce-backend/**'
   workflow_dispatch:
 
 jobs:
