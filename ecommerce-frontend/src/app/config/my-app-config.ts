@@ -1,4 +1,4 @@
-[11:30 AM] Joshua Craven
+
 export default {
     oidc: {
         clientId: '0oa6hnwwonsOm1f6n5d7',
