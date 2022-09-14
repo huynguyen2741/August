@@ -4,7 +4,7 @@ export default {
         clientId: '0oa6hnwwonsOm1f6n5d7',
         issuer: 'https://dev-3553715.okta.com/oauth2/default',
         redirectUri: 'https://augustfrontend.azurewebsites.net/home',
-        postLogoutRedirectUri: 'http://localhost:4200/login',
+        postLogoutRedirectUri: 'https://augustfrontend.azurewebsites.net/login',
         scopes: ['openid', 'profile', 'email']
     }
 }
